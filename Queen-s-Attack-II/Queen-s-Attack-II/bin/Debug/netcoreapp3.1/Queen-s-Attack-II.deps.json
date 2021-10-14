@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Queen-s-Attack-II/1.0.0": {
+        "runtime": {
+          "Queen-s-Attack-II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queen-s-Attack-II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\netcoreapp3.1\Queen-s-Attack-II.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\netcoreapp3.1\Queen-s-Attack-II.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\netcoreapp3.1\Queen-s-Attack-II.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\netcoreapp3.1\Queen-s-Attack-II.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\netcoreapp3.1\Queen-s-Attack-II.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\netcoreapp3.1\Queen-s-Attack-II.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\netcoreapp3.1\Queen-s-Attack-II.genruntimeconfig.cache
