@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queen-s-Attack-II", "Queen-s-Attack-II\Queen-s-Attack-II.csproj", "{770B31E5-11E6-4BA9-9BEB-0C2F6CD868D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770B31E5-11E6-4BA9-9BEB-0C2F6CD868D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770B31E5-11E6-4BA9-9BEB-0C2F6CD868D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770B31E5-11E6-4BA9-9BEB-0C2F6CD868D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770B31E5-11E6-4BA9-9BEB-0C2F6CD868D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE47E459-42C2-4AF8-9488-2E995FF14BAC}
+	EndGlobalSection
+EndGlobal

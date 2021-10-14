@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\Queen-s-Attack-II.exe.config
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\Queen-s-Attack-II.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\bin\Debug\Queen-s-Attack-II.pdb
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\Queen-s-Attack-II.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\Queen-s-Attack-II.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\Queen-s-Attack-II.exe
+C:\Users\LagunasJ\Code\personal\weeklycodechallenges\Queen-s-Attack-II\Queen-s-Attack-II\Queen-s-Attack-II\obj\Debug\Queen-s-Attack-II.pdb
