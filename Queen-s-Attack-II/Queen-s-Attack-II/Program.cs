@@ -40,6 +40,19 @@ namespace Queen_s_Attack_II
             //var c_q3 = 5068;
             //int[,] obstacles3 = new int[,] { };
 
+            //Sample 4
+            var n4 = 5;
+            var k4 = 4;
+            var r_q4 = 4;
+            var c_q4 = 3;
+            int[,] obstacles4 = new int[,]
+            {
+                { 5, 5 },
+                { 4, 2 },
+                { 2, 3 },
+                { 3, 2 }
+            };
+
             Console.WriteLine("Sample 0:");
             queenMoveCalculator(n0,  k0,  r_q0,  c_q0, obstacles0);
             
@@ -52,8 +65,12 @@ namespace Queen_s_Attack_II
             //Console.WriteLine("Sample 3:");
             //queenMoveCalculator(n3, k3, r_q3, c_q3, obstacles3);
 
+            Console.WriteLine("Sample 4:");
+            queenMoveCalculator(n4, k4, r_q4, c_q4, obstacles4);
+
             static void queenMoveCalculator(int n, int k, int r_q, int c_q, int[,] obstacles)
             {
+
                 var i = 0;
                 var j = 0;
                 var z = 0;
@@ -101,6 +118,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow - i, queenColumn - i] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -115,6 +133,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow - i, queenColumn] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -129,6 +148,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow - i, queenColumn + i] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -143,6 +163,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow, queenColumn + i] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -157,6 +178,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow + i, queenColumn + i] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -171,6 +193,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow + i, queenColumn] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -185,6 +208,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow + i, queenColumn - i] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -199,6 +223,7 @@ namespace Queen_s_Attack_II
                                 else
                                 {
                                     board[queenRow, queenColumn - i] = "✓";
+                                    queenMoves++;
                                 }
                             }
                             break;
@@ -214,14 +239,6 @@ namespace Queen_s_Attack_II
                         Console.Write(board[i, j] + "\t");
                     }
                     Console.WriteLine();
-                }
-
-                foreach (var moves in board)
-                {
-                    if(moves == "✓")
-                    {
-                        queenMoves++;
-                    }
                 }
 
                 Console.WriteLine("The Queen can move " + queenMoves + " spaces");
